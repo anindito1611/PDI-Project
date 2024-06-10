@@ -1,0 +1,190 @@
+[2024-06-10T05:38:24.439+0000] {processor.py:161} INFO - Started process (PID=192) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T05:38:24.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T05:38:24.443+0000] {logging_mixin.py:188} INFO - [2024-06-10T05:38:24.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T05:38:24.462+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T05:38:24.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.047 seconds
+[2024-06-10T05:38:55.766+0000] {processor.py:161} INFO - Started process (PID=223) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T05:38:55.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T05:38:55.771+0000] {logging_mixin.py:188} INFO - [2024-06-10T05:38:55.771+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T05:38:55.821+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T05:38:55.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.090 seconds
+[2024-06-10T07:00:33.374+0000] {processor.py:161} INFO - Started process (PID=1745) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:00:33.375+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:00:33.376+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:00:33.376+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:00:33.401+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:00:33.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.046 seconds
+[2024-06-10T07:01:03.500+0000] {processor.py:161} INFO - Started process (PID=1776) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:01:03.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:01:03.503+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:01:03.502+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:01:03.525+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:01:03.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.045 seconds
+[2024-06-10T07:01:33.752+0000] {processor.py:161} INFO - Started process (PID=1807) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:01:33.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:01:33.755+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:01:33.755+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:01:33.770+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:01:33.784+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.044 seconds
+[2024-06-10T07:02:04.253+0000] {processor.py:161} INFO - Started process (PID=1838) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:02:04.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:02:04.256+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:02:04.255+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:02:04.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:02:04.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.067 seconds
+[2024-06-10T07:02:34.652+0000] {processor.py:161} INFO - Started process (PID=1869) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:02:34.654+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:02:34.656+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:02:34.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:02:34.711+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:02:34.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.101 seconds
+[2024-06-10T07:03:04.957+0000] {processor.py:161} INFO - Started process (PID=1901) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:03:04.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:03:04.961+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:03:04.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:03:04.988+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:03:05.017+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.071 seconds
+[2024-06-10T07:03:35.324+0000] {processor.py:161} INFO - Started process (PID=1932) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:03:35.326+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:03:35.328+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:03:35.327+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:03:35.368+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:03:35.387+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.069 seconds
+[2024-06-10T07:04:06.068+0000] {processor.py:161} INFO - Started process (PID=1963) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:04:06.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:04:06.073+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:04:06.072+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:04:06.122+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:04:06.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.091 seconds
+[2024-06-10T07:04:36.262+0000] {processor.py:161} INFO - Started process (PID=1994) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:04:36.263+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:04:36.264+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:04:36.264+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:04:36.288+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:04:36.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.050 seconds
+[2024-06-10T07:05:06.620+0000] {processor.py:161} INFO - Started process (PID=2025) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:05:06.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:05:06.623+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:05:06.623+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:05:06.641+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:05:06.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.041 seconds
+[2024-06-10T07:05:37.358+0000] {processor.py:161} INFO - Started process (PID=2056) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:05:37.359+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:05:37.361+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:05:37.360+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:05:37.388+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:05:37.405+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.056 seconds
+[2024-06-10T07:06:08.047+0000] {processor.py:161} INFO - Started process (PID=2087) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:06:08.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:06:08.052+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:06:08.051+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:06:08.081+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:06:08.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.077 seconds
+[2024-06-10T07:06:38.592+0000] {processor.py:161} INFO - Started process (PID=2128) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:06:38.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:06:38.595+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:06:38.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:06:38.624+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:06:38.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.056 seconds
+[2024-06-10T07:07:08.912+0000] {processor.py:161} INFO - Started process (PID=2159) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:07:08.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:07:08.915+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:07:08.914+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:07:08.937+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:07:08.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.046 seconds
+[2024-06-10T07:07:39.602+0000] {processor.py:161} INFO - Started process (PID=2190) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:07:39.604+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:07:39.606+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:07:39.605+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:07:39.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:07:39.660+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.070 seconds
+[2024-06-10T07:08:10.416+0000] {processor.py:161} INFO - Started process (PID=2221) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:08:10.418+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:08:10.420+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:08:10.420+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:08:10.466+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:08:10.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.094 seconds
+[2024-06-10T07:08:41.217+0000] {processor.py:161} INFO - Started process (PID=2252) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:08:41.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:08:41.221+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:08:41.221+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:08:41.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:08:41.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.069 seconds
+[2024-06-10T07:09:11.815+0000] {processor.py:161} INFO - Started process (PID=2283) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:09:11.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:09:11.819+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:09:11.818+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:09:11.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:09:11.874+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.070 seconds
+[2024-06-10T07:09:42.550+0000] {processor.py:161} INFO - Started process (PID=2313) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:09:42.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:09:42.553+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:09:42.553+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:09:42.591+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:09:42.624+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.083 seconds
+[2024-06-10T07:10:13.075+0000] {processor.py:161} INFO - Started process (PID=2343) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:10:13.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:10:13.080+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:10:13.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:10:13.147+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:10:13.182+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.119 seconds
+[2024-06-10T07:10:43.381+0000] {processor.py:161} INFO - Started process (PID=2374) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:10:43.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:10:43.386+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:10:43.385+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:10:43.413+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:10:43.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.069 seconds
+[2024-06-10T07:11:13.813+0000] {processor.py:161} INFO - Started process (PID=2405) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:11:13.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:11:13.815+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:11:13.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:11:13.842+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:11:13.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.054 seconds
+[2024-06-10T07:11:44.068+0000] {processor.py:161} INFO - Started process (PID=2436) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:11:44.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:11:44.071+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:11:44.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:11:44.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:11:44.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.051 seconds
+[2024-06-10T07:45:37.978+0000] {processor.py:161} INFO - Started process (PID=3204) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:45:37.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:45:37.981+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:45:37.981+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:45:38.029+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:45:38.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.073 seconds
+[2024-06-10T07:46:08.472+0000] {processor.py:161} INFO - Started process (PID=3235) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:46:08.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:46:08.474+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:46:08.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:46:08.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:46:08.504+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.038 seconds
+[2024-06-10T07:46:39.033+0000] {processor.py:161} INFO - Started process (PID=3266) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:46:39.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:46:39.037+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:46:39.037+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:46:39.065+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:46:39.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.066 seconds
+[2024-06-10T07:47:09.651+0000] {processor.py:161} INFO - Started process (PID=3296) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:47:09.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:47:09.656+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:47:09.655+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:47:09.766+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:47:09.814+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.172 seconds
+[2024-06-10T07:47:40.367+0000] {processor.py:161} INFO - Started process (PID=3327) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:47:40.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:47:40.371+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:47:40.370+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:47:40.398+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:47:40.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.066 seconds
+[2024-06-10T07:48:10.888+0000] {processor.py:161} INFO - Started process (PID=3358) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:48:10.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:48:10.891+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:48:10.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:48:10.907+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:48:10.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.038 seconds
+[2024-06-10T07:48:41.625+0000] {processor.py:161} INFO - Started process (PID=3389) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:48:41.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:48:41.630+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:48:41.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:48:41.671+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:48:41.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.084 seconds
+[2024-06-10T07:49:12.082+0000] {processor.py:161} INFO - Started process (PID=3420) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:49:12.084+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:49:12.085+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:49:12.085+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:49:12.110+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:49:12.125+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.050 seconds
+[2024-06-10T07:49:42.333+0000] {processor.py:161} INFO - Started process (PID=3452) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:49:42.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:49:42.337+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:49:42.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:49:42.386+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:49:42.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.088 seconds
+[2024-06-10T07:50:12.917+0000] {processor.py:161} INFO - Started process (PID=3483) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:50:12.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:50:12.922+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:50:12.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:50:12.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:50:12.977+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.073 seconds
+[2024-06-10T07:50:44.142+0000] {processor.py:161} INFO - Started process (PID=3514) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:50:44.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:50:44.147+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:50:44.146+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:50:44.178+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:50:44.202+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.072 seconds
+[2024-06-10T07:51:14.894+0000] {processor.py:161} INFO - Started process (PID=3545) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:51:14.896+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:51:14.898+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:51:14.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:51:14.918+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:51:14.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.047 seconds
+[2024-06-10T07:51:45.299+0000] {processor.py:161} INFO - Started process (PID=3576) to work on /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:51:45.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx for tasks to queue
+[2024-06-10T07:51:45.303+0000] {logging_mixin.py:188} INFO - [2024-06-10T07:51:45.302+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:51:45.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx
+[2024-06-10T07:51:45.351+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/struktur-pemuda-berdasarkan-pendidikan-2021.xlsx took 0.063 seconds

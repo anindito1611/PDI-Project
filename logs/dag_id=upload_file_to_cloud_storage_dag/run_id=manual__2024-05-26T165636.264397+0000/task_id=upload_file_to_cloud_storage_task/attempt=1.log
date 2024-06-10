@@ -1,0 +1,16 @@
+[2024-05-26T16:56:39.218+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-26T16:56:39.410+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: upload_file_to_cloud_storage_dag.upload_file_to_cloud_storage_task manual__2024-05-26T16:56:36.264397+00:00 [queued]>
+[2024-05-26T16:56:39.426+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: upload_file_to_cloud_storage_dag.upload_file_to_cloud_storage_task manual__2024-05-26T16:56:36.264397+00:00 [queued]>
+[2024-05-26T16:56:39.427+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 3
+[2024-05-26T16:56:39.447+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): upload_file_to_cloud_storage_task> on 2024-05-26 16:56:36.264397+00:00
+[2024-05-26T16:56:39.460+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'upload_file_to_cloud_storage_dag', 'upload_file_to_cloud_storage_task', 'manual__2024-05-26T16:56:36.264397+00:00', '--job-id', '61', '--raw', '--subdir', 'DAGS_FOLDER/testis.py', '--cfg-path', '/tmp/tmpr79uf2nk']
+[2024-05-26T16:56:39.463+0000] {standard_task_runner.py:91} INFO - Job 61: Subtask upload_file_to_cloud_storage_task
+[2024-05-26T16:56:39.464+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=445) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-05-26T16:56:39.465+0000] {standard_task_runner.py:63} INFO - Started process 446 to run task
+[2024-05-26T16:56:41.515+0000] {task_command.py:426} INFO - Running <TaskInstance: upload_file_to_cloud_storage_dag.upload_file_to_cloud_storage_task manual__2024-05-26T16:56:36.264397+00:00 [running]> on host 4ff5ec95d398
+[2024-05-26T16:56:51.561+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 61 for task upload_file_to_cloud_storage_task ((psycopg2.OperationalError) could not translate host name "postgres" to address: Temporary failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8); 446)
+[2024-05-26T16:56:54.434+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2024-05-26T16:56:54.841+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-05-26T16:56:54.851+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

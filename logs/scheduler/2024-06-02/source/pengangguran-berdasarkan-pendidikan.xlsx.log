@@ -1,0 +1,240 @@
+[2024-06-02T13:38:22.013+0000] {processor.py:161} INFO - Started process (PID=10550) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:38:22.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:38:22.015+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:38:22.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:38:22.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:38:22.046+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.039 seconds
+[2024-06-02T13:38:53.055+0000] {processor.py:161} INFO - Started process (PID=10581) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:38:53.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:38:53.057+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:38:53.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:38:53.070+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:38:53.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.035 seconds
+[2024-06-02T13:39:23.258+0000] {processor.py:161} INFO - Started process (PID=10612) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:39:23.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:39:23.262+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:39:23.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:39:23.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:39:23.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.056 seconds
+[2024-06-02T13:39:53.655+0000] {processor.py:161} INFO - Started process (PID=10643) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:39:53.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:39:53.658+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:39:53.658+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:39:53.681+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:39:53.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.047 seconds
+[2024-06-02T13:40:23.869+0000] {processor.py:161} INFO - Started process (PID=10674) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:40:23.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:40:23.872+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:40:23.871+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:40:23.886+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:40:23.903+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.040 seconds
+[2024-06-02T13:40:54.771+0000] {processor.py:161} INFO - Started process (PID=10705) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:40:54.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:40:54.774+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:40:54.773+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:40:54.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:40:54.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.041 seconds
+[2024-06-02T13:41:25.706+0000] {processor.py:161} INFO - Started process (PID=10736) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:41:25.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:41:25.708+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:41:25.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:41:25.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:41:25.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.044 seconds
+[2024-06-02T13:41:56.628+0000] {processor.py:161} INFO - Started process (PID=10767) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:41:56.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:41:56.630+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:41:56.630+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:41:56.641+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:41:56.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.031 seconds
+[2024-06-02T13:42:27.707+0000] {processor.py:161} INFO - Started process (PID=10798) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:42:27.709+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:42:27.710+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:42:27.710+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:42:27.737+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:42:27.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.052 seconds
+[2024-06-02T13:42:58.679+0000] {processor.py:161} INFO - Started process (PID=10829) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:42:58.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:42:58.681+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:42:58.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:42:58.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:42:58.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.042 seconds
+[2024-06-02T13:43:29.179+0000] {processor.py:161} INFO - Started process (PID=10860) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:43:29.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:43:29.182+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:43:29.181+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:43:29.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:43:29.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.042 seconds
+[2024-06-02T13:43:59.397+0000] {processor.py:161} INFO - Started process (PID=10891) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:43:59.400+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:43:59.402+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:43:59.401+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:43:59.447+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:43:59.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.072 seconds
+[2024-06-02T13:44:29.594+0000] {processor.py:161} INFO - Started process (PID=10922) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:44:29.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:44:29.598+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:44:29.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:44:29.626+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:44:29.644+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.056 seconds
+[2024-06-02T13:44:59.946+0000] {processor.py:161} INFO - Started process (PID=10953) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:44:59.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:44:59.949+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:44:59.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:44:59.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:44:59.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.052 seconds
+[2024-06-02T13:45:30.128+0000] {processor.py:161} INFO - Started process (PID=10984) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:45:30.129+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:45:30.131+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:45:30.130+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:45:30.168+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:45:30.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.065 seconds
+[2024-06-02T13:46:00.645+0000] {processor.py:161} INFO - Started process (PID=11015) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:46:00.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:46:00.649+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:46:00.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:46:00.680+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:46:00.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.090 seconds
+[2024-06-02T13:46:30.955+0000] {processor.py:161} INFO - Started process (PID=11046) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:46:30.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:46:30.958+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:46:30.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:46:30.981+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:46:30.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.051 seconds
+[2024-06-02T13:47:01.268+0000] {processor.py:161} INFO - Started process (PID=11077) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:47:01.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:47:01.273+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:47:01.272+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:47:01.298+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:47:01.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.055 seconds
+[2024-06-02T13:47:31.572+0000] {processor.py:161} INFO - Started process (PID=11116) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:47:31.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:47:31.576+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:47:31.575+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:47:31.601+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:47:31.622+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.059 seconds
+[2024-06-02T13:48:01.777+0000] {processor.py:161} INFO - Started process (PID=11147) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:48:01.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:48:01.779+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:48:01.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:48:01.789+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:48:01.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.032 seconds
+[2024-06-02T13:48:32.151+0000] {processor.py:161} INFO - Started process (PID=11178) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:48:32.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:48:32.154+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:48:32.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:48:32.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:48:32.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.045 seconds
+[2024-06-02T13:49:02.304+0000] {processor.py:161} INFO - Started process (PID=11209) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:49:02.306+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:49:02.307+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:49:02.307+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:49:02.343+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:49:02.358+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.062 seconds
+[2024-06-02T13:49:32.527+0000] {processor.py:161} INFO - Started process (PID=11240) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:49:32.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:49:32.531+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:49:32.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:49:32.555+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:49:32.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.050 seconds
+[2024-06-02T13:50:02.700+0000] {processor.py:161} INFO - Started process (PID=11271) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:50:02.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:50:02.704+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:50:02.703+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:50:02.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:50:02.755+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.061 seconds
+[2024-06-02T13:50:32.919+0000] {processor.py:161} INFO - Started process (PID=11302) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:50:32.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:50:32.922+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:50:32.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:50:32.943+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:50:32.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.043 seconds
+[2024-06-02T13:51:03.065+0000] {processor.py:161} INFO - Started process (PID=11333) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:51:03.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:51:03.069+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:51:03.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:51:03.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:51:03.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.058 seconds
+[2024-06-02T13:51:33.255+0000] {processor.py:161} INFO - Started process (PID=11364) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:51:33.256+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:51:33.258+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:51:33.257+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:51:33.292+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:51:33.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.058 seconds
+[2024-06-02T13:52:03.495+0000] {processor.py:161} INFO - Started process (PID=11395) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:52:03.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:52:03.498+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:52:03.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:52:03.535+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:52:03.549+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.061 seconds
+[2024-06-02T13:52:33.805+0000] {processor.py:161} INFO - Started process (PID=11426) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:52:33.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:52:33.809+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:52:33.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:52:33.852+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:52:33.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.076 seconds
+[2024-06-02T13:53:04.917+0000] {processor.py:161} INFO - Started process (PID=11457) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:53:04.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:53:04.919+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:53:04.919+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:53:04.933+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:53:04.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.038 seconds
+[2024-06-02T13:53:35.355+0000] {processor.py:161} INFO - Started process (PID=11488) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:53:35.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:53:35.358+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:53:35.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:53:35.374+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:53:35.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.041 seconds
+[2024-06-02T13:54:06.261+0000] {processor.py:161} INFO - Started process (PID=11519) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:54:06.262+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:54:06.264+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:54:06.263+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:54:06.277+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:54:06.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.037 seconds
+[2024-06-02T13:54:37.343+0000] {processor.py:161} INFO - Started process (PID=11549) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:54:37.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:54:37.347+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:54:37.346+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:54:37.367+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:54:37.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.050 seconds
+[2024-06-02T13:55:08.396+0000] {processor.py:161} INFO - Started process (PID=11580) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:55:08.397+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:55:08.399+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:55:08.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:55:08.435+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:55:08.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.061 seconds
+[2024-06-02T13:55:39.529+0000] {processor.py:161} INFO - Started process (PID=11610) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:55:39.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:55:39.532+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:55:39.532+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:55:39.572+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:55:39.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.067 seconds
+[2024-06-02T13:56:09.815+0000] {processor.py:161} INFO - Started process (PID=11641) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:56:09.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:56:09.818+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:56:09.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:56:09.865+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:56:09.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.074 seconds
+[2024-06-02T13:56:40.006+0000] {processor.py:161} INFO - Started process (PID=11672) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:56:40.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:56:40.010+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:56:40.009+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:56:40.025+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:56:40.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.041 seconds
+[2024-06-02T13:57:10.195+0000] {processor.py:161} INFO - Started process (PID=11703) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:57:10.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:57:10.199+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:57:10.199+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:57:10.231+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:57:10.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.057 seconds
+[2024-06-02T13:57:40.365+0000] {processor.py:161} INFO - Started process (PID=11734) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:57:40.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:57:40.368+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:57:40.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:57:40.396+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:57:40.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.053 seconds
+[2024-06-02T13:58:10.549+0000] {processor.py:161} INFO - Started process (PID=11766) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:58:10.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:58:10.553+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:58:10.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:58:10.582+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:58:10.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.055 seconds
+[2024-06-02T13:58:40.975+0000] {processor.py:161} INFO - Started process (PID=11797) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:58:40.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:58:40.977+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:58:40.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:58:40.991+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:58:41.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.039 seconds
+[2024-06-02T13:59:11.974+0000] {processor.py:161} INFO - Started process (PID=11827) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:59:11.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:59:11.976+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:59:11.976+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:59:11.997+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:59:12.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.049 seconds
+[2024-06-02T13:59:42.957+0000] {processor.py:161} INFO - Started process (PID=11858) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:59:42.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T13:59:42.960+0000] {logging_mixin.py:188} INFO - [2024-06-02T13:59:42.959+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:59:42.980+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T13:59:42.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.045 seconds
+[2024-06-02T14:00:13.930+0000] {processor.py:161} INFO - Started process (PID=11889) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:00:13.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T14:00:13.932+0000] {logging_mixin.py:188} INFO - [2024-06-02T14:00:13.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:00:13.954+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:00:13.971+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.050 seconds
+[2024-06-02T14:00:44.968+0000] {processor.py:161} INFO - Started process (PID=11920) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:00:44.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T14:00:44.971+0000] {logging_mixin.py:188} INFO - [2024-06-02T14:00:44.970+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:00:44.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:00:45.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.045 seconds
+[2024-06-02T14:01:15.165+0000] {processor.py:161} INFO - Started process (PID=11951) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:01:15.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T14:01:15.169+0000] {logging_mixin.py:188} INFO - [2024-06-02T14:01:15.168+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:01:15.188+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:01:15.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.044 seconds
+[2024-06-02T14:01:45.333+0000] {processor.py:161} INFO - Started process (PID=11982) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:01:45.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T14:01:45.336+0000] {logging_mixin.py:188} INFO - [2024-06-02T14:01:45.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:01:45.352+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:01:45.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.040 seconds
+[2024-06-02T14:02:15.550+0000] {processor.py:161} INFO - Started process (PID=12013) to work on /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:02:15.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx for tasks to queue
+[2024-06-02T14:02:15.554+0000] {logging_mixin.py:188} INFO - [2024-06-02T14:02:15.554+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:02:15.576+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx
+[2024-06-02T14:02:15.591+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/source/pengangguran-berdasarkan-pendidikan.xlsx took 0.048 seconds
